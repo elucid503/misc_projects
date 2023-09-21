@@ -8,11 +8,11 @@ string_to_encode = str(input("Enter a string that you would like to encode: ")) 
 
 shift_amount = int(input("Enter a number to 'shift' letters by: ")) # int() to convert to a int
 
-# Check if shift_amount is greater than 25, and return an error warning if it is
+# Check if shift_amount is greater than 26, and return an error warning if it is
 
-if shift_amount > 25:
+if shift_amount > 26:
      
-        print("Error: Shift amount must be less than 25")
+        print("Error: Shift amount must be less than 26")
         
         exit() # exit the program
 
