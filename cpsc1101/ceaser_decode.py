@@ -8,6 +8,10 @@ string_to_decode = str(input("Enter a string that you would like to decode: ")) 
 
 shift_amount = int(input("Enter the numerical shift value of the encoded string: ")) # int() to convert to a int
 
+# Use the mod operator so that items outside the range of 26 ASCII values are reduced to the change within that range
+
+shift_amount = shift_amount % 26
+
 # We will store the result in this list 
 
 result = []
