@@ -13,14 +13,19 @@ def login():
     Username = request.form.get('username')
     Password = request.form.get('password')
 
-    if (not Username or not Password):
+    if ((not Username) or (not Password)):
         return LoginElement("Missing username or password", False).ToHTML()
 
     # Create a new user from the username and password
 
     CreatedUser = user(Username, Password)
 
-    return LoggedInElement("Logged in successfully", True, CreatedUser).ToHTML()
+    # Set cookie to the username
+
+    response = app.make_response(LoggedInElement("Logged in successfully", True, CreatedUser).ToHTML())
+    response.set_cookie('username', Username)
+
+    return response
 
 # Since we're not using files, if program restarts, all data is lost 
 
@@ -50,7 +55,6 @@ class LoginElement:
             <label for="password">Password</label>
             <input type="password" name="password" id="password"/> 
         <br/>
-        <br>
 
         {self.success and f"<p>{self.message}</p>" or f"<p style='color: red;'>{self.message}</p>"}
 
