@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<script src="https://unpkg.com/htmx.org@1.9.6" integrity="sha384-FhXw7b6AlE/jyjlZH5iHa/tTe9EpJ1Y55RjcgPbjeWMskSxZt1v9qkxLJWNJaGni" crossorigin="anonymous"></script>
+
+<html>
+    <head>
+        <title>Login</title>
+    </head>
+    <body>
+        <form hx-post="http://localhost:5000/login">
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username"/> 
+            <br/>
+            <br>
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password"/> 
+            <br/>
+            <br>
+            <input type="submit" name="submit" id="submit" value="Login"/> 
+        </form>
+    </body>
+</html>
