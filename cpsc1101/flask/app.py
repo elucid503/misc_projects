@@ -40,6 +40,14 @@ class user:
     def AddData(self, key, value):
         self.data[key] = value
 
+# Pages to render: 
+
+# table, 
+# by teams 
+# 2-3 rows   
+
+# login page 
+
 class LoginElement:
 
     def __init__(self, message, success):
