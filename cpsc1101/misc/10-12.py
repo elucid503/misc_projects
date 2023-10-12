@@ -55,3 +55,8 @@ else:
     median = floor(integers[medianindex])
 
 print(f"Median is {median}")
+
+# From class 
+
+for i in range(6):
+    inp = input("Enter a number: ")
