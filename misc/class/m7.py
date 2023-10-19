@@ -1,27 +1,9 @@
-obj = { "hello": "hello world" }
+obj = { "introduction": "hello world", 14: "fourteen", 9: "nine", "animal_1": "cat", "animal_2": "dog" }
 
-obj[14] = "rat"
-obj[9] = "cat"
+items = list(obj.items())
 
-# print(obj["hello"])
+i = 0
 
-# print(obj[14])
-# print(obj[9])
-
-obj["animal_14"] = "rat"
-obj["animal_9"] = "cat"
-
-# print(obj["animal_14"])
-# print(obj["animal_9"])
-
-# print("animal_9" in obj)
-# print("animal_10" in obj)
-
-keys = obj.keys()
-
-# for key in keys:
-#     print(key)
-
-values = list(obj.values())
-
-print(values[0]) 
+for item in items:
+    print(f"Item {i} => Key: {item[0]}; Value: {item[1]}")
+    i+= 1
