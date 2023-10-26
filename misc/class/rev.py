@@ -11,7 +11,7 @@ for name in name_list:
 set_str = "You must cut down the mightiest tree in the forest with…a herring!"
 
 count = 0
-while count < len(set_str):
+while (count < len(set_str)):
     count += 1
 
 print(count)
@@ -23,7 +23,7 @@ new_list = []
 
 for num in num_list:
 
-    if num > 0:
+    if (num > 0):
         new_list.append(num)
 
 print(new_list)
@@ -32,8 +32,8 @@ print(new_list)
 
 d = {"car": "ford", "age": 21, 42: "everything", "result": True, "animals": ["dog", "cat", "rat"], "negative": -10}
 
-for key in d:
-    print(f"Key: {key}; Type: {type(d[key])}")
+for item in list(d.items()):
+    print(f"Key: {item[0]}; Value: {item[1]} Value Type: {type(item[1])}")
 
 # Exercise 5
 
