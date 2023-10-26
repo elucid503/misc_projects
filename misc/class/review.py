@@ -33,15 +33,15 @@ print(new_list)
 d = {"car": "ford", "age": 21, 42: "everything", "result": True, "animals": ["dog", "cat", "rat"], "negative": -10}
 
 for key in d:
-    print(type(d[key]))
+    print(f"Key: {key}; Type: {type(d[key])}")
 
 # Exercise 5
 
-d_1 = {"positive": "NA", "positive": "NA", "negative": "NA", "positive": "NA", "negative": "NA", "negative": "NA"}
+d_1 = {"3_positive": "NA", "4_positive": "NA", "2_negative": "NA", "1_positive": "NA", "5_negative": "NA", "6_negative": "NA"}
 
 for key in d_1:
 
-    if (key == "positive"): 
+    if ("positive" in key): 
         d_1[key] = randint(1, 100)
 
     else:
