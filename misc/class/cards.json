@@ -198,5 +198,12385 @@
     "abilities": [
       "run-away"
     ]
+  },
+  {
+    "name": "spearow",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "fearow",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "ekans",
+    "type": "poison",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "arbok",
+    "type": "poison",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "pikachu",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "raichu",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "sandshrew",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "sandslash",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "nidoran-f",
+    "type": "poison",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "nidorina",
+    "type": "poison",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "nidoqueen",
+    "type": "poison",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "nidoran-m",
+    "type": "poison",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "nidorino",
+    "type": "poison",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "nidoking",
+    "type": "poison",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "clefairy",
+    "type": "fairy",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "clefable",
+    "type": "fairy",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "vulpix",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "ninetales",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "jigglypuff",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "wigglytuff",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "zubat",
+    "type": "poison",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "golbat",
+    "type": "poison",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "oddish",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "gloom",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "vileplume",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "paras",
+    "type": "bug",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "effect-spore"
+    ]
+  },
+  {
+    "name": "parasect",
+    "type": "bug",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "effect-spore"
+    ]
+  },
+  {
+    "name": "venonat",
+    "type": "bug",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "compound-eyes"
+    ]
+  },
+  {
+    "name": "venomoth",
+    "type": "bug",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "diglett",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "dugtrio",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "meowth",
+    "type": "normal",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "persian",
+    "type": "normal",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "psyduck",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "damp"
+    ]
+  },
+  {
+    "name": "golduck",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "damp"
+    ]
+  },
+  {
+    "name": "mankey",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "primeape",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "growlithe",
+    "type": "fire",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "arcanine",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "poliwag",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "poliwhirl",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "poliwrath",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "abra",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "kadabra",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "alakazam",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "machop",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "machoke",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "machamp",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "bellsprout",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "weepinbell",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "victreebel",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "tentacool",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "tentacruel",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "geodude",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "graveler",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "golem",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "ponyta",
+    "type": "fire",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "rapidash",
+    "type": "fire",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "slowpoke",
+    "type": "water",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "slowbro",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "magnemite",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "magnet-pull"
+    ]
+  },
+  {
+    "name": "magneton",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "magnet-pull"
+    ]
+  },
+  {
+    "name": "farfetchd",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "doduo",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "dodrio",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "seel",
+    "type": "water",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "dewgong",
+    "type": "water",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "grimer",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "stench"
+    ]
+  },
+  {
+    "name": "muk",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "stench"
+    ]
+  },
+  {
+    "name": "shellder",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "shell-armor"
+    ]
+  },
+  {
+    "name": "cloyster",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "shell-armor"
+    ]
+  },
+  {
+    "name": "gastly",
+    "type": "ghost",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "haunter",
+    "type": "ghost",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "gengar",
+    "type": "ghost",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "cursed-body"
+    ]
+  },
+  {
+    "name": "onix",
+    "type": "rock",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "drowzee",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "hypno",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "krabby",
+    "type": "water",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "kingler",
+    "type": "water",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "voltorb",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "electrode",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "exeggcute",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "exeggutor",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "cubone",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "marowak",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "hitmonlee",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "hitmonchan",
+    "type": "fighting",
+    "moves": [
+      "comet-punch"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "lickitung",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "koffing",
+    "type": "poison",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "weezing",
+    "type": "poison",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "rhyhorn",
+    "type": "ground",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "rhydon",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "chansey",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "tangela",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "kangaskhan",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "early-bird"
+    ]
+  },
+  {
+    "name": "horsea",
+    "type": "water",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "seadra",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "goldeen",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "seaking",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "staryu",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "illuminate"
+    ]
+  },
+  {
+    "name": "starmie",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "illuminate"
+    ]
+  },
+  {
+    "name": "mr-mime",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "scyther",
+    "type": "bug",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "jynx",
+    "type": "ice",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "electabuzz",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "magmar",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "flame-body"
+    ]
+  },
+  {
+    "name": "pinsir",
+    "type": "bug",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "tauros",
+    "type": "normal",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "magikarp",
+    "type": "water",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "gyarados",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "lapras",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "ditto",
+    "type": "normal",
+    "moves": [
+      "transform"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "eevee",
+    "type": "normal",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "vaporeon",
+    "type": "water",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "jolteon",
+    "type": "electric",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "flareon",
+    "type": "fire",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "porygon",
+    "type": "normal",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "trace"
+    ]
+  },
+  {
+    "name": "omanyte",
+    "type": "rock",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "omastar",
+    "type": "rock",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "kabuto",
+    "type": "rock",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "kabutops",
+    "type": "rock",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "aerodactyl",
+    "type": "rock",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "snorlax",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "immunity"
+    ]
+  },
+  {
+    "name": "articuno",
+    "type": "ice",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "zapdos",
+    "type": "electric",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "moltres",
+    "type": "fire",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "dratini",
+    "type": "dragon",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "dragonair",
+    "type": "dragon",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "dragonite",
+    "type": "dragon",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "mewtwo",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "mew",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "chikorita",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "bayleef",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "meganium",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "cyndaquil",
+    "type": "fire",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "quilava",
+    "type": "fire",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "typhlosion",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "totodile",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "croconaw",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "feraligatr",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "sentret",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "furret",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "hoothoot",
+    "type": "normal",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "noctowl",
+    "type": "normal",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "ledyba",
+    "type": "bug",
+    "moves": [
+      "comet-punch"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "ledian",
+    "type": "bug",
+    "moves": [
+      "comet-punch"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "spinarak",
+    "type": "bug",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "ariados",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "crobat",
+    "type": "poison",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "chinchou",
+    "type": "water",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "lanturn",
+    "type": "water",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "pichu",
+    "type": "electric",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "cleffa",
+    "type": "fairy",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "igglybuff",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "togepi",
+    "type": "fairy",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "togetic",
+    "type": "fairy",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "natu",
+    "type": "psychic",
+    "moves": [
+      "double-edge"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "xatu",
+    "type": "psychic",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "mareep",
+    "type": "electric",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "flaaffy",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "ampharos",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "bellossom",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "marill",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "azumarill",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "sudowoodo",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "politoed",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "hoppip",
+    "type": "grass",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "skiploom",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "jumpluff",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "aipom",
+    "type": "normal",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "sunkern",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "sunflora",
+    "type": "grass",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "yanma",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "speed-boost"
+    ]
+  },
+  {
+    "name": "wooper",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "damp"
+    ]
+  },
+  {
+    "name": "quagsire",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "damp"
+    ]
+  },
+  {
+    "name": "espeon",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "umbreon",
+    "type": "dark",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "murkrow",
+    "type": "dark",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "slowking",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "misdreavus",
+    "type": "ghost",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "unown",
+    "type": "psychic",
+    "moves": [
+      "hidden-power"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "wobbuffet",
+    "type": "psychic",
+    "moves": [
+      "counter"
+    ],
+    "abilities": [
+      "shadow-tag"
+    ]
+  },
+  {
+    "name": "girafarig",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "pineco",
+    "type": "bug",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "forretress",
+    "type": "bug",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "dunsparce",
+    "type": "normal",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "serene-grace"
+    ]
+  },
+  {
+    "name": "gligar",
+    "type": "ground",
+    "moves": [
+      "guillotine"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "steelix",
+    "type": "steel",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "snubbull",
+    "type": "fairy",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "granbull",
+    "type": "fairy",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "qwilfish",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "scizor",
+    "type": "bug",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "shuckle",
+    "type": "bug",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "heracross",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "sneasel",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "teddiursa",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "ursaring",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "slugma",
+    "type": "fire",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "magma-armor"
+    ]
+  },
+  {
+    "name": "magcargo",
+    "type": "fire",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "magma-armor"
+    ]
+  },
+  {
+    "name": "swinub",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "piloswine",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "corsola",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "remoraid",
+    "type": "water",
+    "moves": [
+      "double-edge"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "octillery",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "suction-cups"
+    ]
+  },
+  {
+    "name": "delibird",
+    "type": "ice",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "mantine",
+    "type": "water",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "skarmory",
+    "type": "steel",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "houndour",
+    "type": "dark",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "early-bird"
+    ]
+  },
+  {
+    "name": "houndoom",
+    "type": "dark",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "early-bird"
+    ]
+  },
+  {
+    "name": "kingdra",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "phanpy",
+    "type": "ground",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "donphan",
+    "type": "ground",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "porygon2",
+    "type": "normal",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "trace"
+    ]
+  },
+  {
+    "name": "stantler",
+    "type": "normal",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "smeargle",
+    "type": "normal",
+    "moves": [
+      "sketch"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "tyrogue",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "hitmontop",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "smoochum",
+    "type": "ice",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "elekid",
+    "type": "electric",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "magby",
+    "type": "fire",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "flame-body"
+    ]
+  },
+  {
+    "name": "miltank",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "blissey",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "raikou",
+    "type": "electric",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "entei",
+    "type": "fire",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "suicune",
+    "type": "water",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "larvitar",
+    "type": "rock",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "pupitar",
+    "type": "rock",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "tyranitar",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sand-stream"
+    ]
+  },
+  {
+    "name": "lugia",
+    "type": "psychic",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "ho-oh",
+    "type": "fire",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "celebi",
+    "type": "psychic",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "treecko",
+    "type": "grass",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "grovyle",
+    "type": "grass",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "sceptile",
+    "type": "grass",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "torchic",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "combusken",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "blaziken",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "mudkip",
+    "type": "water",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "marshtomp",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "swampert",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "poochyena",
+    "type": "dark",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "mightyena",
+    "type": "dark",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "zigzagoon",
+    "type": "normal",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "linoone",
+    "type": "normal",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "wurmple",
+    "type": "bug",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "silcoon",
+    "type": "bug",
+    "moves": [
+      "string-shot"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "beautifly",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "cascoon",
+    "type": "bug",
+    "moves": [
+      "string-shot"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "dustox",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "lotad",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "lombre",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "ludicolo",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "seedot",
+    "type": "grass",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "nuzleaf",
+    "type": "grass",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "shiftry",
+    "type": "grass",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "taillow",
+    "type": "normal",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "swellow",
+    "type": "normal",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "wingull",
+    "type": "water",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "pelipper",
+    "type": "water",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "ralts",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "kirlia",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "gardevoir",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "surskit",
+    "type": "bug",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "masquerain",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "shroomish",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "effect-spore"
+    ]
+  },
+  {
+    "name": "breloom",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "effect-spore"
+    ]
+  },
+  {
+    "name": "slakoth",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "truant"
+    ]
+  },
+  {
+    "name": "vigoroth",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "slaking",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "truant"
+    ]
+  },
+  {
+    "name": "nincada",
+    "type": "bug",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "compound-eyes"
+    ]
+  },
+  {
+    "name": "ninjask",
+    "type": "bug",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "speed-boost"
+    ]
+  },
+  {
+    "name": "shedinja",
+    "type": "bug",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "wonder-guard"
+    ]
+  },
+  {
+    "name": "whismur",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "loudred",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "exploud",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "makuhita",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "hariyama",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "azurill",
+    "type": "normal",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "nosepass",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "skitty",
+    "type": "normal",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "delcatty",
+    "type": "normal",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "sableye",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "mawile",
+    "type": "steel",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "aron",
+    "type": "steel",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "lairon",
+    "type": "steel",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "aggron",
+    "type": "steel",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "meditite",
+    "type": "fighting",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "pure-power"
+    ]
+  },
+  {
+    "name": "medicham",
+    "type": "fighting",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "pure-power"
+    ]
+  },
+  {
+    "name": "electrike",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "manectric",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "plusle",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "plus"
+    ]
+  },
+  {
+    "name": "minun",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "minus"
+    ]
+  },
+  {
+    "name": "volbeat",
+    "type": "bug",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "illuminate"
+    ]
+  },
+  {
+    "name": "illumise",
+    "type": "bug",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "roselia",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "gulpin",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "liquid-ooze"
+    ]
+  },
+  {
+    "name": "swalot",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "liquid-ooze"
+    ]
+  },
+  {
+    "name": "carvanha",
+    "type": "water",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "rough-skin"
+    ]
+  },
+  {
+    "name": "sharpedo",
+    "type": "water",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "rough-skin"
+    ]
+  },
+  {
+    "name": "wailmer",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "water-veil"
+    ]
+  },
+  {
+    "name": "wailord",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "water-veil"
+    ]
+  },
+  {
+    "name": "numel",
+    "type": "fire",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "camerupt",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "magma-armor"
+    ]
+  },
+  {
+    "name": "torkoal",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "white-smoke"
+    ]
+  },
+  {
+    "name": "spoink",
+    "type": "psychic",
+    "moves": [
+      "whirlwind"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "grumpig",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "spinda",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "trapinch",
+    "type": "ground",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "vibrava",
+    "type": "ground",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "flygon",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "cacnea",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "cacturne",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "swablu",
+    "type": "normal",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "altaria",
+    "type": "dragon",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "zangoose",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "immunity"
+    ]
+  },
+  {
+    "name": "seviper",
+    "type": "poison",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "lunatone",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "solrock",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "barboach",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "whiscash",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "corphish",
+    "type": "water",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "crawdaunt",
+    "type": "water",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "baltoy",
+    "type": "ground",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "claydol",
+    "type": "ground",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "lileep",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "suction-cups"
+    ]
+  },
+  {
+    "name": "cradily",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "suction-cups"
+    ]
+  },
+  {
+    "name": "anorith",
+    "type": "rock",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "armaldo",
+    "type": "rock",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "feebas",
+    "type": "water",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "milotic",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "marvel-scale"
+    ]
+  },
+  {
+    "name": "castform",
+    "type": "normal",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "forecast"
+    ]
+  },
+  {
+    "name": "kecleon",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "color-change"
+    ]
+  },
+  {
+    "name": "shuppet",
+    "type": "ghost",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "banette",
+    "type": "ghost",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "duskull",
+    "type": "ghost",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "dusclops",
+    "type": "ghost",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "tropius",
+    "type": "grass",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "chimecho",
+    "type": "psychic",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "absol",
+    "type": "dark",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "wynaut",
+    "type": "psychic",
+    "moves": [
+      "counter"
+    ],
+    "abilities": [
+      "shadow-tag"
+    ]
+  },
+  {
+    "name": "snorunt",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "glalie",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "spheal",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "sealeo",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "walrein",
+    "type": "ice",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "clamperl",
+    "type": "water",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "shell-armor"
+    ]
+  },
+  {
+    "name": "huntail",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "gorebyss",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "relicanth",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "luvdisc",
+    "type": "water",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "bagon",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "shelgon",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "salamence",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "beldum",
+    "type": "steel",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "metang",
+    "type": "steel",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "metagross",
+    "type": "steel",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "regirock",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "regice",
+    "type": "ice",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "registeel",
+    "type": "steel",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "latias",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "latios",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "kyogre",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "drizzle"
+    ]
+  },
+  {
+    "name": "groudon",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "drought"
+    ]
+  },
+  {
+    "name": "rayquaza",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "air-lock"
+    ]
+  },
+  {
+    "name": "jirachi",
+    "type": "steel",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "serene-grace"
+    ]
+  },
+  {
+    "name": "deoxys-normal",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "turtwig",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "grotle",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "torterra",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "chimchar",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "monferno",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "infernape",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "piplup",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "prinplup",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "empoleon",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "starly",
+    "type": "normal",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "staravia",
+    "type": "normal",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "staraptor",
+    "type": "normal",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "bidoof",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "simple"
+    ]
+  },
+  {
+    "name": "bibarel",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "simple"
+    ]
+  },
+  {
+    "name": "kricketot",
+    "type": "bug",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "kricketune",
+    "type": "bug",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "shinx",
+    "type": "electric",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "luxio",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "luxray",
+    "type": "electric",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "budew",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "roserade",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "cranidos",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "rampardos",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "shieldon",
+    "type": "rock",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "bastiodon",
+    "type": "rock",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "burmy",
+    "type": "bug",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "wormadam-plant",
+    "type": "bug",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "anticipation"
+    ]
+  },
+  {
+    "name": "mothim",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "combee",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "honey-gather"
+    ]
+  },
+  {
+    "name": "vespiquen",
+    "type": "bug",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "pachirisu",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "buizel",
+    "type": "water",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "floatzel",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "cherubi",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "cherrim",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "flower-gift"
+    ]
+  },
+  {
+    "name": "shellos",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "sticky-hold"
+    ]
+  },
+  {
+    "name": "gastrodon",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "sticky-hold"
+    ]
+  },
+  {
+    "name": "ambipom",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "technician"
+    ]
+  },
+  {
+    "name": "drifloon",
+    "type": "ghost",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "aftermath"
+    ]
+  },
+  {
+    "name": "drifblim",
+    "type": "ghost",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "aftermath"
+    ]
+  },
+  {
+    "name": "buneary",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "lopunny",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "mismagius",
+    "type": "ghost",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "honchkrow",
+    "type": "dark",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "glameow",
+    "type": "normal",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "purugly",
+    "type": "normal",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "chingling",
+    "type": "psychic",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "stunky",
+    "type": "poison",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "stench"
+    ]
+  },
+  {
+    "name": "skuntank",
+    "type": "poison",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "stench"
+    ]
+  },
+  {
+    "name": "bronzor",
+    "type": "steel",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "bronzong",
+    "type": "steel",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "bonsly",
+    "type": "rock",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "mime-jr",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "happiny",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "chatot",
+    "type": "normal",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "spiritomb",
+    "type": "ghost",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "gible",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "gabite",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "garchomp",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "munchlax",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "riolu",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "steadfast"
+    ]
+  },
+  {
+    "name": "lucario",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "steadfast"
+    ]
+  },
+  {
+    "name": "hippopotas",
+    "type": "ground",
+    "moves": [
+      "whirlwind"
+    ],
+    "abilities": [
+      "sand-stream"
+    ]
+  },
+  {
+    "name": "hippowdon",
+    "type": "ground",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "sand-stream"
+    ]
+  },
+  {
+    "name": "skorupi",
+    "type": "poison",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "drapion",
+    "type": "poison",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "croagunk",
+    "type": "poison",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "anticipation"
+    ]
+  },
+  {
+    "name": "toxicroak",
+    "type": "poison",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "anticipation"
+    ]
+  },
+  {
+    "name": "carnivine",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "finneon",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "lumineon",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "mantyke",
+    "type": "water",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "snover",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "snow-warning"
+    ]
+  },
+  {
+    "name": "abomasnow",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "snow-warning"
+    ]
+  },
+  {
+    "name": "weavile",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "magnezone",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "magnet-pull"
+    ]
+  },
+  {
+    "name": "lickilicky",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "rhyperior",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "tangrowth",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "electivire",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "motor-drive"
+    ]
+  },
+  {
+    "name": "magmortar",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "flame-body"
+    ]
+  },
+  {
+    "name": "togekiss",
+    "type": "fairy",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "yanmega",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "speed-boost"
+    ]
+  },
+  {
+    "name": "leafeon",
+    "type": "grass",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "glaceon",
+    "type": "ice",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "gliscor",
+    "type": "ground",
+    "moves": [
+      "guillotine"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "mamoswine",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "oblivious"
+    ]
+  },
+  {
+    "name": "porygon-z",
+    "type": "normal",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "adaptability"
+    ]
+  },
+  {
+    "name": "gallade",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "steadfast"
+    ]
+  },
+  {
+    "name": "probopass",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "dusknoir",
+    "type": "ghost",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "froslass",
+    "type": "ice",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "rotom",
+    "type": "electric",
+    "moves": [
+      "thunder-shock"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "uxie",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "mesprit",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "azelf",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "dialga",
+    "type": "steel",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "palkia",
+    "type": "water",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "heatran",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "regigigas",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "slow-start"
+    ]
+  },
+  {
+    "name": "giratina-altered",
+    "type": "ghost",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "cresselia",
+    "type": "psychic",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "phione",
+    "type": "water",
+    "moves": [
+      "supersonic"
+    ],
+    "abilities": [
+      "hydration"
+    ]
+  },
+  {
+    "name": "manaphy",
+    "type": "water",
+    "moves": [
+      "supersonic"
+    ],
+    "abilities": [
+      "hydration"
+    ]
+  },
+  {
+    "name": "darkrai",
+    "type": "dark",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "bad-dreams"
+    ]
+  },
+  {
+    "name": "shaymin-land",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "arceus",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "multitype"
+    ]
+  },
+  {
+    "name": "victini",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "victory-star"
+    ]
+  },
+  {
+    "name": "snivy",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "servine",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "serperior",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "tepig",
+    "type": "fire",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "pignite",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "emboar",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "oshawott",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "dewott",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "samurott",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "patrat",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "watchog",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "illuminate"
+    ]
+  },
+  {
+    "name": "lillipup",
+    "type": "normal",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "herdier",
+    "type": "normal",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "stoutland",
+    "type": "normal",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "purrloin",
+    "type": "dark",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "liepard",
+    "type": "dark",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "pansage",
+    "type": "grass",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "simisage",
+    "type": "grass",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "pansear",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "simisear",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "panpour",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "simipour",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "munna",
+    "type": "psychic",
+    "moves": [
+      "sonic-boom"
+    ],
+    "abilities": [
+      "forewarn"
+    ]
+  },
+  {
+    "name": "musharna",
+    "type": "psychic",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "forewarn"
+    ]
+  },
+  {
+    "name": "pidove",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "tranquill",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "unfezant",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "blitzle",
+    "type": "electric",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "zebstrika",
+    "type": "electric",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "roggenrola",
+    "type": "rock",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "boldore",
+    "type": "rock",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "gigalith",
+    "type": "rock",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "woobat",
+    "type": "psychic",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "unaware"
+    ]
+  },
+  {
+    "name": "swoobat",
+    "type": "psychic",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "unaware"
+    ]
+  },
+  {
+    "name": "drilbur",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-rush"
+    ]
+  },
+  {
+    "name": "excadrill",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-rush"
+    ]
+  },
+  {
+    "name": "audino",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "timburr",
+    "type": "fighting",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "gurdurr",
+    "type": "fighting",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "conkeldurr",
+    "type": "fighting",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "tympole",
+    "type": "water",
+    "moves": [
+      "growl"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "palpitoad",
+    "type": "water",
+    "moves": [
+      "growl"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "seismitoad",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "throh",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "sawk",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "sewaddle",
+    "type": "bug",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "swadloon",
+    "type": "bug",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "leavanny",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "venipede",
+    "type": "bug",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "whirlipede",
+    "type": "bug",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "scolipede",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "cottonee",
+    "type": "grass",
+    "moves": [
+      "absorb"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "whimsicott",
+    "type": "grass",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "petilil",
+    "type": "grass",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "lilligant",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "basculin-red-striped",
+    "type": "water",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "reckless"
+    ]
+  },
+  {
+    "name": "sandile",
+    "type": "ground",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "krokorok",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "krookodile",
+    "type": "ground",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "darumaka",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "darmanitan-standard",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "maractus",
+    "type": "grass",
+    "moves": [
+      "pin-missile"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "dwebble",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "crustle",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "scraggy",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "scrafty",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "sigilyph",
+    "type": "psychic",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "wonder-skin"
+    ]
+  },
+  {
+    "name": "yamask",
+    "type": "ghost",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "mummy"
+    ]
+  },
+  {
+    "name": "cofagrigus",
+    "type": "ghost",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "mummy"
+    ]
+  },
+  {
+    "name": "tirtouga",
+    "type": "water",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "solid-rock"
+    ]
+  },
+  {
+    "name": "carracosta",
+    "type": "water",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "solid-rock"
+    ]
+  },
+  {
+    "name": "archen",
+    "type": "rock",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "defeatist"
+    ]
+  },
+  {
+    "name": "archeops",
+    "type": "rock",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "defeatist"
+    ]
+  },
+  {
+    "name": "trubbish",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "stench"
+    ]
+  },
+  {
+    "name": "garbodor",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "stench"
+    ]
+  },
+  {
+    "name": "zorua",
+    "type": "dark",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "illusion"
+    ]
+  },
+  {
+    "name": "zoroark",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "illusion"
+    ]
+  },
+  {
+    "name": "minccino",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "cinccino",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "gothita",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "frisk"
+    ]
+  },
+  {
+    "name": "gothorita",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "frisk"
+    ]
+  },
+  {
+    "name": "gothitelle",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "frisk"
+    ]
+  },
+  {
+    "name": "solosis",
+    "type": "psychic",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "overcoat"
+    ]
+  },
+  {
+    "name": "duosion",
+    "type": "psychic",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "overcoat"
+    ]
+  },
+  {
+    "name": "reuniclus",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "overcoat"
+    ]
+  },
+  {
+    "name": "ducklett",
+    "type": "water",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "swanna",
+    "type": "water",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "vanillite",
+    "type": "ice",
+    "moves": [
+      "mist"
+    ],
+    "abilities": [
+      "ice-body"
+    ]
+  },
+  {
+    "name": "vanillish",
+    "type": "ice",
+    "moves": [
+      "mist"
+    ],
+    "abilities": [
+      "ice-body"
+    ]
+  },
+  {
+    "name": "vanilluxe",
+    "type": "ice",
+    "moves": [
+      "mist"
+    ],
+    "abilities": [
+      "ice-body"
+    ]
+  },
+  {
+    "name": "deerling",
+    "type": "normal",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "sawsbuck",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "emolga",
+    "type": "electric",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "karrablast",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "escavalier",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "foongus",
+    "type": "grass",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "effect-spore"
+    ]
+  },
+  {
+    "name": "amoonguss",
+    "type": "grass",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "effect-spore"
+    ]
+  },
+  {
+    "name": "frillish",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "jellicent",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "alomomola",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "joltik",
+    "type": "bug",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "compound-eyes"
+    ]
+  },
+  {
+    "name": "galvantula",
+    "type": "bug",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "compound-eyes"
+    ]
+  },
+  {
+    "name": "ferroseed",
+    "type": "grass",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "iron-barbs"
+    ]
+  },
+  {
+    "name": "ferrothorn",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "iron-barbs"
+    ]
+  },
+  {
+    "name": "klink",
+    "type": "steel",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "plus"
+    ]
+  },
+  {
+    "name": "klang",
+    "type": "steel",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "plus"
+    ]
+  },
+  {
+    "name": "klinklang",
+    "type": "steel",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "plus"
+    ]
+  },
+  {
+    "name": "tynamo",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "eelektrik",
+    "type": "electric",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "eelektross",
+    "type": "electric",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "elgyem",
+    "type": "psychic",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "telepathy"
+    ]
+  },
+  {
+    "name": "beheeyem",
+    "type": "psychic",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "telepathy"
+    ]
+  },
+  {
+    "name": "litwick",
+    "type": "ghost",
+    "moves": [
+      "acid"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "lampent",
+    "type": "ghost",
+    "moves": [
+      "ember"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "chandelure",
+    "type": "ghost",
+    "moves": [
+      "ember"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "axew",
+    "type": "dragon",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "fraxure",
+    "type": "dragon",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "haxorus",
+    "type": "dragon",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "cubchoo",
+    "type": "ice",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "beartic",
+    "type": "ice",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "cryogonal",
+    "type": "ice",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "shelmet",
+    "type": "bug",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "hydration"
+    ]
+  },
+  {
+    "name": "accelgor",
+    "type": "bug",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "hydration"
+    ]
+  },
+  {
+    "name": "stunfisk",
+    "type": "ground",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "mienfoo",
+    "type": "fighting",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "mienshao",
+    "type": "fighting",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "druddigon",
+    "type": "dragon",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "rough-skin"
+    ]
+  },
+  {
+    "name": "golett",
+    "type": "ground",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "iron-fist"
+    ]
+  },
+  {
+    "name": "golurk",
+    "type": "ground",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "iron-fist"
+    ]
+  },
+  {
+    "name": "pawniard",
+    "type": "dark",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "defiant"
+    ]
+  },
+  {
+    "name": "bisharp",
+    "type": "dark",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "defiant"
+    ]
+  },
+  {
+    "name": "bouffalant",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "reckless"
+    ]
+  },
+  {
+    "name": "rufflet",
+    "type": "normal",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "braviary",
+    "type": "normal",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "vullaby",
+    "type": "dark",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "mandibuzz",
+    "type": "dark",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "heatmor",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "durant",
+    "type": "bug",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "deino",
+    "type": "dark",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "zweilous",
+    "type": "dark",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "hydreigon",
+    "type": "dark",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "larvesta",
+    "type": "bug",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "flame-body"
+    ]
+  },
+  {
+    "name": "volcarona",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "flame-body"
+    ]
+  },
+  {
+    "name": "cobalion",
+    "type": "steel",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "justified"
+    ]
+  },
+  {
+    "name": "terrakion",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "justified"
+    ]
+  },
+  {
+    "name": "virizion",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "justified"
+    ]
+  },
+  {
+    "name": "tornadus-incarnate",
+    "type": "flying",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "thundurus-incarnate",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "reshiram",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "turboblaze"
+    ]
+  },
+  {
+    "name": "zekrom",
+    "type": "dragon",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "teravolt"
+    ]
+  },
+  {
+    "name": "landorus-incarnate",
+    "type": "ground",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sand-force"
+    ]
+  },
+  {
+    "name": "kyurem",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "keldeo-ordinary",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "justified"
+    ]
+  },
+  {
+    "name": "meloetta-aria",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "serene-grace"
+    ]
+  },
+  {
+    "name": "genesect",
+    "type": "bug",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "download"
+    ]
+  },
+  {
+    "name": "chespin",
+    "type": "grass",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "quilladin",
+    "type": "grass",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "chesnaught",
+    "type": "grass",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "fennekin",
+    "type": "fire",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "braixen",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "delphox",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "froakie",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "frogadier",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "greninja",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "bunnelby",
+    "type": "normal",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "diggersby",
+    "type": "normal",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "fletchling",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "fletchinder",
+    "type": "fire",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "flame-body"
+    ]
+  },
+  {
+    "name": "talonflame",
+    "type": "fire",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "flame-body"
+    ]
+  },
+  {
+    "name": "scatterbug",
+    "type": "bug",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "spewpa",
+    "type": "bug",
+    "moves": [
+      "harden"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "vivillon",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "litleo",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "pyroar",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "rivalry"
+    ]
+  },
+  {
+    "name": "flabebe",
+    "type": "fairy",
+    "moves": [
+      "vine-whip"
+    ],
+    "abilities": [
+      "flower-veil"
+    ]
+  },
+  {
+    "name": "floette",
+    "type": "fairy",
+    "moves": [
+      "vine-whip"
+    ],
+    "abilities": [
+      "flower-veil"
+    ]
+  },
+  {
+    "name": "florges",
+    "type": "fairy",
+    "moves": [
+      "hyper-beam"
+    ],
+    "abilities": [
+      "flower-veil"
+    ]
+  },
+  {
+    "name": "skiddo",
+    "type": "grass",
+    "moves": [
+      "vine-whip"
+    ],
+    "abilities": [
+      "sap-sipper"
+    ]
+  },
+  {
+    "name": "gogoat",
+    "type": "grass",
+    "moves": [
+      "vine-whip"
+    ],
+    "abilities": [
+      "sap-sipper"
+    ]
+  },
+  {
+    "name": "pancham",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "iron-fist"
+    ]
+  },
+  {
+    "name": "pangoro",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "iron-fist"
+    ]
+  },
+  {
+    "name": "furfrou",
+    "type": "normal",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "fur-coat"
+    ]
+  },
+  {
+    "name": "espurr",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "meowstic-male",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "honedge",
+    "type": "steel",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "no-guard"
+    ]
+  },
+  {
+    "name": "doublade",
+    "type": "steel",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "no-guard"
+    ]
+  },
+  {
+    "name": "aegislash-shield",
+    "type": "steel",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "stance-change"
+    ]
+  },
+  {
+    "name": "spritzee",
+    "type": "fairy",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "aromatisse",
+    "type": "fairy",
+    "moves": [
+      "hyper-beam"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "swirlix",
+    "type": "fairy",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sweet-veil"
+    ]
+  },
+  {
+    "name": "slurpuff",
+    "type": "fairy",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sweet-veil"
+    ]
+  },
+  {
+    "name": "inkay",
+    "type": "dark",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "contrary"
+    ]
+  },
+  {
+    "name": "malamar",
+    "type": "dark",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "contrary"
+    ]
+  },
+  {
+    "name": "binacle",
+    "type": "rock",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "tough-claws"
+    ]
+  },
+  {
+    "name": "barbaracle",
+    "type": "rock",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "tough-claws"
+    ]
+  },
+  {
+    "name": "skrelp",
+    "type": "poison",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "dragalge",
+    "type": "poison",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "clauncher",
+    "type": "water",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "mega-launcher"
+    ]
+  },
+  {
+    "name": "clawitzer",
+    "type": "water",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "mega-launcher"
+    ]
+  },
+  {
+    "name": "helioptile",
+    "type": "electric",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "dry-skin"
+    ]
+  },
+  {
+    "name": "heliolisk",
+    "type": "electric",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "dry-skin"
+    ]
+  },
+  {
+    "name": "tyrunt",
+    "type": "rock",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "strong-jaw"
+    ]
+  },
+  {
+    "name": "tyrantrum",
+    "type": "rock",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "strong-jaw"
+    ]
+  },
+  {
+    "name": "amaura",
+    "type": "rock",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "refrigerate"
+    ]
+  },
+  {
+    "name": "aurorus",
+    "type": "rock",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "refrigerate"
+    ]
+  },
+  {
+    "name": "sylveon",
+    "type": "fairy",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "hawlucha",
+    "type": "fighting",
+    "moves": [
+      "karate-chop"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "dedenne",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "cheek-pouch"
+    ]
+  },
+  {
+    "name": "carbink",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "goomy",
+    "type": "dragon",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sap-sipper"
+    ]
+  },
+  {
+    "name": "sliggoo",
+    "type": "dragon",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sap-sipper"
+    ]
+  },
+  {
+    "name": "goodra",
+    "type": "dragon",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sap-sipper"
+    ]
+  },
+  {
+    "name": "klefki",
+    "type": "steel",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "phantump",
+    "type": "ghost",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "trevenant",
+    "type": "ghost",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "natural-cure"
+    ]
+  },
+  {
+    "name": "pumpkaboo-average",
+    "type": "ghost",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "gourgeist-average",
+    "type": "ghost",
+    "moves": [
+      "flamethrower"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "bergmite",
+    "type": "ice",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "avalugg",
+    "type": "ice",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "noibat",
+    "type": "flying",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "frisk"
+    ]
+  },
+  {
+    "name": "noivern",
+    "type": "flying",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "frisk"
+    ]
+  },
+  {
+    "name": "xerneas",
+    "type": "fairy",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "fairy-aura"
+    ]
+  },
+  {
+    "name": "yveltal",
+    "type": "dark",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "dark-aura"
+    ]
+  },
+  {
+    "name": "zygarde-50",
+    "type": "dragon",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "aura-break"
+    ]
+  },
+  {
+    "name": "diancie",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "hoopa",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "magician"
+    ]
+  },
+  {
+    "name": "volcanion",
+    "type": "fire",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "rowlet",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "dartrix",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "decidueye",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "litten",
+    "type": "fire",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "torracat",
+    "type": "fire",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "incineroar",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "popplio",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "brionne",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "primarina",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "pikipek",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "trumbeak",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "toucannon",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "yungoos",
+    "type": "normal",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "stakeout"
+    ]
+  },
+  {
+    "name": "gumshoos",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "stakeout"
+    ]
+  },
+  {
+    "name": "grubbin",
+    "type": "bug",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "charjabug",
+    "type": "bug",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "battery"
+    ]
+  },
+  {
+    "name": "vikavolt",
+    "type": "bug",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "crabrawler",
+    "type": "fighting",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "crabominable",
+    "type": "fighting",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "hyper-cutter"
+    ]
+  },
+  {
+    "name": "oricorio-baile",
+    "type": "fire",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "dancer"
+    ]
+  },
+  {
+    "name": "cutiefly",
+    "type": "bug",
+    "moves": [
+      "absorb"
+    ],
+    "abilities": [
+      "honey-gather"
+    ]
+  },
+  {
+    "name": "ribombee",
+    "type": "bug",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "honey-gather"
+    ]
+  },
+  {
+    "name": "rockruff",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "lycanroc-midday",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "wishiwashi-solo",
+    "type": "water",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "schooling"
+    ]
+  },
+  {
+    "name": "mareanie",
+    "type": "poison",
+    "moves": [
+      "poison-sting"
+    ],
+    "abilities": [
+      "merciless"
+    ]
+  },
+  {
+    "name": "toxapex",
+    "type": "poison",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "merciless"
+    ]
+  },
+  {
+    "name": "mudbray",
+    "type": "ground",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "mudsdale",
+    "type": "ground",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "dewpider",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "water-bubble"
+    ]
+  },
+  {
+    "name": "araquanid",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "water-bubble"
+    ]
+  },
+  {
+    "name": "fomantis",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "lurantis",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "morelull",
+    "type": "grass",
+    "moves": [
+      "absorb"
+    ],
+    "abilities": [
+      "illuminate"
+    ]
+  },
+  {
+    "name": "shiinotic",
+    "type": "grass",
+    "moves": [
+      "hyper-beam"
+    ],
+    "abilities": [
+      "illuminate"
+    ]
+  },
+  {
+    "name": "salandit",
+    "type": "poison",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "corrosion"
+    ]
+  },
+  {
+    "name": "salazzle",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "corrosion"
+    ]
+  },
+  {
+    "name": "stufful",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "fluffy"
+    ]
+  },
+  {
+    "name": "bewear",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "fluffy"
+    ]
+  },
+  {
+    "name": "bounsweet",
+    "type": "grass",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "steenee",
+    "type": "grass",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "tsareena",
+    "type": "grass",
+    "moves": [
+      "double-slap"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "comfey",
+    "type": "fairy",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "flower-veil"
+    ]
+  },
+  {
+    "name": "oranguru",
+    "type": "normal",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "passimian",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "receiver"
+    ]
+  },
+  {
+    "name": "wimpod",
+    "type": "bug",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "wimp-out"
+    ]
+  },
+  {
+    "name": "golisopod",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "emergency-exit"
+    ]
+  },
+  {
+    "name": "sandygast",
+    "type": "ghost",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "water-compaction"
+    ]
+  },
+  {
+    "name": "palossand",
+    "type": "ghost",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "water-compaction"
+    ]
+  },
+  {
+    "name": "pyukumuku",
+    "type": "water",
+    "moves": [
+      "counter"
+    ],
+    "abilities": [
+      "innards-out"
+    ]
+  },
+  {
+    "name": "type-null",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "silvally",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "rks-system"
+    ]
+  },
+  {
+    "name": "minior-red-meteor",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "komala",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "comatose"
+    ]
+  },
+  {
+    "name": "turtonator",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "shell-armor"
+    ]
+  },
+  {
+    "name": "togedemaru",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "iron-barbs"
+    ]
+  },
+  {
+    "name": "mimikyu-disguised",
+    "type": "ghost",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "disguise"
+    ]
+  },
+  {
+    "name": "bruxish",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "dazzling"
+    ]
+  },
+  {
+    "name": "drampa",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "berserk"
+    ]
+  },
+  {
+    "name": "dhelmise",
+    "type": "ghost",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "steelworker"
+    ]
+  },
+  {
+    "name": "jangmo-o",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "bulletproof"
+    ]
+  },
+  {
+    "name": "hakamo-o",
+    "type": "dragon",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "bulletproof"
+    ]
+  },
+  {
+    "name": "kommo-o",
+    "type": "dragon",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "bulletproof"
+    ]
+  },
+  {
+    "name": "tapu-koko",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "electric-surge"
+    ]
+  },
+  {
+    "name": "tapu-lele",
+    "type": "psychic",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "psychic-surge"
+    ]
+  },
+  {
+    "name": "tapu-bulu",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "grassy-surge"
+    ]
+  },
+  {
+    "name": "tapu-fini",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "misty-surge"
+    ]
+  },
+  {
+    "name": "cosmog",
+    "type": "psychic",
+    "moves": [
+      "teleport"
+    ],
+    "abilities": [
+      "unaware"
+    ]
+  },
+  {
+    "name": "cosmoem",
+    "type": "psychic",
+    "moves": [
+      "teleport"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
+  },
+  {
+    "name": "solgaleo",
+    "type": "psychic",
+    "moves": [
+      "roar"
+    ],
+    "abilities": [
+      "full-metal-body"
+    ]
+  },
+  {
+    "name": "lunala",
+    "type": "psychic",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "shadow-shield"
+    ]
+  },
+  {
+    "name": "nihilego",
+    "type": "rock",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "buzzwole",
+    "type": "bug",
+    "moves": [
+      "comet-punch"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "pheromosa",
+    "type": "bug",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "xurkitree",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "celesteela",
+    "type": "steel",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "kartana",
+    "type": "grass",
+    "moves": [
+      "guillotine"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "guzzlord",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "necrozma",
+    "type": "psychic",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "prism-armor"
+    ]
+  },
+  {
+    "name": "magearna",
+    "type": "steel",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "soul-heart"
+    ]
+  },
+  {
+    "name": "marshadow",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "technician"
+    ]
+  },
+  {
+    "name": "poipole",
+    "type": "poison",
+    "moves": [
+      "fury-attack"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "naganadel",
+    "type": "poison",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "stakataka",
+    "type": "rock",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "blacephalon",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "beast-boost"
+    ]
+  },
+  {
+    "name": "zeraora",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "meltan",
+    "type": "steel",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "magnet-pull"
+    ]
+  },
+  {
+    "name": "melmetal",
+    "type": "steel",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "iron-fist"
+    ]
+  },
+  {
+    "name": "grookey",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "thwackey",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "rillaboom",
+    "type": "grass",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "scorbunny",
+    "type": "fire",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "raboot",
+    "type": "fire",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "cinderace",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "sobble",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "drizzile",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "inteleon",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "skwovet",
+    "type": "normal",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "cheek-pouch"
+    ]
+  },
+  {
+    "name": "greedent",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "cheek-pouch"
+    ]
+  },
+  {
+    "name": "rookidee",
+    "type": "flying",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "corvisquire",
+    "type": "flying",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "corviknight",
+    "type": "flying",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "blipbug",
+    "type": "bug",
+    "moves": [
+      "supersonic"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "dottler",
+    "type": "bug",
+    "moves": [
+      "solar-beam"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "orbeetle",
+    "type": "bug",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "nickit",
+    "type": "dark",
+    "moves": [
+      "tail-whip"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "thievul",
+    "type": "dark",
+    "moves": [
+      "tail-whip"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "gossifleur",
+    "type": "grass",
+    "moves": [
+      "sing"
+    ],
+    "abilities": [
+      "cotton-down"
+    ]
+  },
+  {
+    "name": "eldegoss",
+    "type": "grass",
+    "moves": [
+      "sing"
+    ],
+    "abilities": [
+      "cotton-down"
+    ]
+  },
+  {
+    "name": "wooloo",
+    "type": "normal",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "fluffy"
+    ]
+  },
+  {
+    "name": "dubwool",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "fluffy"
+    ]
+  },
+  {
+    "name": "chewtle",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "strong-jaw"
+    ]
+  },
+  {
+    "name": "drednaw",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "strong-jaw"
+    ]
+  },
+  {
+    "name": "yamper",
+    "type": "electric",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "ball-fetch"
+    ]
+  },
+  {
+    "name": "boltund",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "strong-jaw"
+    ]
+  },
+  {
+    "name": "rolycoly",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "steam-engine"
+    ]
+  },
+  {
+    "name": "carkol",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "steam-engine"
+    ]
+  },
+  {
+    "name": "coalossal",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "steam-engine"
+    ]
+  },
+  {
+    "name": "applin",
+    "type": "grass",
+    "moves": [
+      "withdraw"
+    ],
+    "abilities": [
+      "ripen"
+    ]
+  },
+  {
+    "name": "flapple",
+    "type": "grass",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "ripen"
+    ]
+  },
+  {
+    "name": "appletun",
+    "type": "grass",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "ripen"
+    ]
+  },
+  {
+    "name": "silicobra",
+    "type": "ground",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "sand-spit"
+    ]
+  },
+  {
+    "name": "sandaconda",
+    "type": "ground",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "sand-spit"
+    ]
+  },
+  {
+    "name": "cramorant",
+    "type": "flying",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "gulp-missile"
+    ]
+  },
+  {
+    "name": "arrokuda",
+    "type": "water",
+    "moves": [
+      "fury-attack"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "barraskewda",
+    "type": "water",
+    "moves": [
+      "fury-attack"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "toxel",
+    "type": "electric",
+    "moves": [
+      "growl"
+    ],
+    "abilities": [
+      "rattled"
+    ]
+  },
+  {
+    "name": "toxtricity-amped",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "punk-rock"
+    ]
+  },
+  {
+    "name": "sizzlipede",
+    "type": "fire",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "centiskorch",
+    "type": "fire",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "clobbopus",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "grapploct",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "limber"
+    ]
+  },
+  {
+    "name": "sinistea",
+    "type": "ghost",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "polteageist",
+    "type": "ghost",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "hatenna",
+    "type": "psychic",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "hattrem",
+    "type": "psychic",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "hatterene",
+    "type": "psychic",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "impidimp",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "morgrem",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "grimmsnarl",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "obstagoon",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "reckless"
+    ]
+  },
+  {
+    "name": "perrserker",
+    "type": "steel",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "cursola",
+    "type": "ghost",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "sirfetchd",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "steadfast"
+    ]
+  },
+  {
+    "name": "mr-rime",
+    "type": "ice",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "tangled-feet"
+    ]
+  },
+  {
+    "name": "runerigus",
+    "type": "ground",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "wandering-spirit"
+    ]
+  },
+  {
+    "name": "milcery",
+    "type": "fairy",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sweet-veil"
+    ]
+  },
+  {
+    "name": "alcremie",
+    "type": "fairy",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sweet-veil"
+    ]
+  },
+  {
+    "name": "falinks",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "pincurchin",
+    "type": "electric",
+    "moves": [
+      "fury-attack"
+    ],
+    "abilities": [
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "snom",
+    "type": "ice",
+    "moves": [
+      "rest"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "frosmoth",
+    "type": "ice",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "stonjourner",
+    "type": "rock",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "power-spot"
+    ]
+  },
+  {
+    "name": "eiscue-ice",
+    "type": "ice",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "ice-face"
+    ]
+  },
+  {
+    "name": "indeedee-male",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "morpeko-full-belly",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "hunger-switch"
+    ]
+  },
+  {
+    "name": "cufant",
+    "type": "steel",
+    "moves": [
+      "whirlwind"
+    ],
+    "abilities": [
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "copperajah",
+    "type": "steel",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "dracozolt",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "arctozolt",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "dracovish",
+    "type": "water",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "arctovish",
+    "type": "water",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "duraludon",
+    "type": "steel",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "light-metal"
+    ]
+  },
+  {
+    "name": "dreepy",
+    "type": "dragon",
+    "moves": [
+      "bite"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "drakloak",
+    "type": "dragon",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "dragapult",
+    "type": "dragon",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "clear-body"
+    ]
+  },
+  {
+    "name": "zacian",
+    "type": "fairy",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "intrepid-sword"
+    ]
+  },
+  {
+    "name": "zamazenta",
+    "type": "fighting",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "dauntless-shield"
+    ]
+  },
+  {
+    "name": "eternatus",
+    "type": "poison",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "kubfu",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "urshifu-single-strike",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "unseen-fist"
+    ]
+  },
+  {
+    "name": "zarude",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "regieleki",
+    "type": "electric",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "transistor"
+    ]
+  },
+  {
+    "name": "regidrago",
+    "type": "dragon",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "dragons-maw"
+    ]
+  },
+  {
+    "name": "glastrier",
+    "type": "ice",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chilling-neigh"
+    ]
+  },
+  {
+    "name": "spectrier",
+    "type": "ghost",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "grim-neigh"
+    ]
+  },
+  {
+    "name": "calyrex",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "unnerve"
+    ]
+  },
+  {
+    "name": "wyrdeer",
+    "type": "normal",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "kleavor",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "ursaluna",
+    "type": "ground",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "guts"
+    ]
+  },
+  {
+    "name": "basculegion-male",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "sneasler",
+    "type": "fighting",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "overqwil",
+    "type": "dark",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "enamorus-incarnate",
+    "type": "fairy",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "cute-charm"
+    ]
+  },
+  {
+    "name": "sprigatito",
+    "type": "grass",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "floragato",
+    "type": "grass",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "meowscarada",
+    "type": "grass",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "fuecoco",
+    "type": "fire",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "crocalor",
+    "type": "fire",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "skeledirge",
+    "type": "fire",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "quaxly",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "quaxwell",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "quaquaval",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "lechonk",
+    "type": "normal",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "aroma-veil"
+    ]
+  },
+  {
+    "name": "oinkologne",
+    "type": "normal",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "lingering-aroma"
+    ]
+  },
+  {
+    "name": "tarountula",
+    "type": "bug",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "spidops",
+    "type": "bug",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "nymble",
+    "type": "bug",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "lokix",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "pawmi",
+    "type": "electric",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pawmo",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "pawmot",
+    "type": "electric",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "tandemaus",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "maushold",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "friend-guard"
+    ]
+  },
+  {
+    "name": "fidough",
+    "type": "fairy",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "dachsbun",
+    "type": "fairy",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "well-baked-body"
+    ]
+  },
+  {
+    "name": "smoliv",
+    "type": "grass",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "early-bird"
+    ]
+  },
+  {
+    "name": "dolliv",
+    "type": "grass",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "early-bird"
+    ]
+  },
+  {
+    "name": "arboliva",
+    "type": "grass",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "seed-sower"
+    ]
+  },
+  {
+    "name": "squawkabilly",
+    "type": "normal",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "nacli",
+    "type": "rock",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "purifying-salt"
+    ]
+  },
+  {
+    "name": "naclstack",
+    "type": "rock",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "purifying-salt"
+    ]
+  },
+  {
+    "name": "garganacl",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "purifying-salt"
+    ]
+  },
+  {
+    "name": "charcadet",
+    "type": "fire",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "armarouge",
+    "type": "fire",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "ceruledge",
+    "type": "fire",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "flash-fire"
+    ]
+  },
+  {
+    "name": "tadbulb",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "bellibolt",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "electromorphosis"
+    ]
+  },
+  {
+    "name": "wattrel",
+    "type": "electric",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "wind-power"
+    ]
+  },
+  {
+    "name": "kilowattrel",
+    "type": "electric",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "wind-power"
+    ]
+  },
+  {
+    "name": "maschiff",
+    "type": "dark",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "mabosstiff",
+    "type": "dark",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "shroodle",
+    "type": "poison",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "unburden"
+    ]
+  },
+  {
+    "name": "grafaiai",
+    "type": "poison",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "unburden"
+    ]
+  },
+  {
+    "name": "bramblin",
+    "type": "grass",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "wind-rider"
+    ]
+  },
+  {
+    "name": "brambleghast",
+    "type": "grass",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "wind-rider"
+    ]
+  },
+  {
+    "name": "toedscool",
+    "type": "ground",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "mycelium-might"
+    ]
+  },
+  {
+    "name": "toedscruel",
+    "type": "ground",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "mycelium-might"
+    ]
+  },
+  {
+    "name": "klawf",
+    "type": "rock",
+    "moves": [
+      "guillotine"
+    ],
+    "abilities": [
+      "anger-shell"
+    ]
+  },
+  {
+    "name": "capsakid",
+    "type": "grass",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "scovillain",
+    "type": "grass",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "rellor",
+    "type": "bug",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "compound-eyes"
+    ]
+  },
+  {
+    "name": "rabsca",
+    "type": "bug",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  },
+  {
+    "name": "flittle",
+    "type": "psychic",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "anticipation"
+    ]
+  },
+  {
+    "name": "espathra",
+    "type": "psychic",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "opportunist"
+    ]
+  },
+  {
+    "name": "tinkatink",
+    "type": "fairy",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "tinkatuff",
+    "type": "fairy",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "tinkaton",
+    "type": "fairy",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "wiglett",
+    "type": "water",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "gooey"
+    ]
+  },
+  {
+    "name": "wugtrio",
+    "type": "water",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "gooey"
+    ]
+  },
+  {
+    "name": "bombirdier",
+    "type": "flying",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "finizen",
+    "type": "water",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "water-veil"
+    ]
+  },
+  {
+    "name": "palafin",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "zero-to-hero"
+    ]
+  },
+  {
+    "name": "varoom",
+    "type": "steel",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "overcoat"
+    ]
+  },
+  {
+    "name": "revavroom",
+    "type": "steel",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "overcoat"
+    ]
+  },
+  {
+    "name": "cyclizar",
+    "type": "dragon",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "orthworm",
+    "type": "steel",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "earth-eater"
+    ]
+  },
+  {
+    "name": "glimmet",
+    "type": "rock",
+    "moves": [
+      "rock-throw"
+    ],
+    "abilities": [
+      "toxic-debris"
+    ]
+  },
+  {
+    "name": "glimmora",
+    "type": "rock",
+    "moves": [
+      "hyper-beam"
+    ],
+    "abilities": [
+      "toxic-debris"
+    ]
+  },
+  {
+    "name": "greavard",
+    "type": "ghost",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "houndstone",
+    "type": "ghost",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "sand-rush"
+    ]
+  },
+  {
+    "name": "flamigo",
+    "type": "flying",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "scrappy"
+    ]
+  },
+  {
+    "name": "cetoddle",
+    "type": "ice",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "cetitan",
+    "type": "ice",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "veluza",
+    "type": "water",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "dondozo",
+    "type": "water",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "unaware"
+    ]
+  },
+  {
+    "name": "tatsugiri",
+    "type": "dragon",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "commander"
+    ]
+  },
+  {
+    "name": "annihilape",
+    "type": "fighting",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "clodsire",
+    "type": "poison",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "farigiraf",
+    "type": "normal",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "cud-chew"
+    ]
+  },
+  {
+    "name": "dudunsparce",
+    "type": "normal",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "serene-grace"
+    ]
+  },
+  {
+    "name": "kingambit",
+    "type": "dark",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "defiant"
+    ]
+  },
+  {
+    "name": "great-tusk",
+    "type": "ground",
+    "moves": [
+      "horn-attack"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "scream-tail",
+    "type": "fairy",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "brute-bonnet",
+    "type": "grass",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "flutter-mane",
+    "type": "ghost",
+    "moves": [
+      "psybeam"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "slither-wing",
+    "type": "bug",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "sandy-shocks",
+    "type": "electric",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "iron-treads",
+    "type": "ground",
+    "moves": [
+      "horn-attack"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "iron-bundle",
+    "type": "ice",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "iron-hands",
+    "type": "fighting",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "iron-jugulis",
+    "type": "dark",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "iron-moth",
+    "type": "fire",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "iron-thorns",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "frigibax",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "thermal-exchange"
+    ]
+  },
+  {
+    "name": "arctibax",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "thermal-exchange"
+    ]
+  },
+  {
+    "name": "baxcalibur",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "thermal-exchange"
+    ]
+  },
+  {
+    "name": "gimmighoul",
+    "type": "ghost",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "rattled"
+    ]
+  },
+  {
+    "name": "gholdengo",
+    "type": "steel",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "good-as-gold"
+    ]
+  },
+  {
+    "name": "wo-chien",
+    "type": "dark",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "tablets-of-ruin"
+    ]
+  },
+  {
+    "name": "chien-pao",
+    "type": "dark",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sword-of-ruin"
+    ]
+  },
+  {
+    "name": "ting-lu",
+    "type": "dark",
+    "moves": [
+      "whirlwind"
+    ],
+    "abilities": [
+      "vessel-of-ruin"
+    ]
+  },
+  {
+    "name": "chi-yu",
+    "type": "dark",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "beads-of-ruin"
+    ]
+  },
+  {
+    "name": "roaring-moon",
+    "type": "dragon",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "iron-valiant",
+    "type": "fairy",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "koraidon",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ]
+  },
+  {
+    "name": "miraidon",
+    "type": "electric",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "hadron-engine"
+    ]
+  },
+  {
+    "name": "walking-wake",
+    "type": "water",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "protosynthesis"
+    ]
+  },
+  {
+    "name": "iron-leaves",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "quark-drive"
+    ]
+  },
+  {
+    "name": "dipplin",
+    "type": "grass",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "supersweet-syrup"
+    ]
+  },
+  {
+    "name": "poltchageist",
+    "type": "grass",
+    "moves": [
+      "absorb"
+    ],
+    "abilities": [
+      "hospitality"
+    ]
+  },
+  {
+    "name": "sinistcha",
+    "type": "grass",
+    "moves": [
+      "hyper-beam"
+    ],
+    "abilities": [
+      "hospitality"
+    ]
+  },
+  {
+    "name": "okidogi",
+    "type": "poison",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "toxic-chain"
+    ]
+  },
+  {
+    "name": "munkidori",
+    "type": "poison",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "toxic-chain"
+    ]
+  },
+  {
+    "name": "fezandipiti",
+    "type": "poison",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "toxic-chain"
+    ]
+  },
+  {
+    "name": "ogerpon",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "defiant"
+    ]
+  },
+  {
+    "name": "deoxys-attack",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "deoxys-defense",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "deoxys-speed",
+    "type": "psychic",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "wormadam-sandy",
+    "type": "bug",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "anticipation"
+    ]
+  },
+  {
+    "name": "wormadam-trash",
+    "type": "bug",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "anticipation"
+    ]
+  },
+  {
+    "name": "shaymin-sky",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "serene-grace"
+    ]
+  },
+  {
+    "name": "giratina-origin",
+    "type": "ghost",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "rotom-heat",
+    "type": "electric",
+    "moves": [
+      "thunder-shock"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "rotom-wash",
+    "type": "electric",
+    "moves": [
+      "hydro-pump"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "rotom-frost",
+    "type": "electric",
+    "moves": [
+      "blizzard"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "rotom-fan",
+    "type": "electric",
+    "moves": [
+      "thunder-shock"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "rotom-mow",
+    "type": "electric",
+    "moves": [
+      "thunder-shock"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "castform-sunny",
+    "type": "fire",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "forecast"
+    ]
+  },
+  {
+    "name": "castform-rainy",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "forecast"
+    ]
+  },
+  {
+    "name": "castform-snowy",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "forecast"
+    ]
+  },
+  {
+    "name": "basculin-blue-striped",
+    "type": "water",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "rock-head"
+    ]
+  },
+  {
+    "name": "darmanitan-zen",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "meloetta-pirouette",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "serene-grace"
+    ]
+  },
+  {
+    "name": "tornadus-therian",
+    "type": "flying",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "regenerator"
+    ]
+  },
+  {
+    "name": "thundurus-therian",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "volt-absorb"
+    ]
+  },
+  {
+    "name": "landorus-therian",
+    "type": "ground",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "kyurem-black",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "teravolt"
+    ]
+  },
+  {
+    "name": "kyurem-white",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "turboblaze"
+    ]
+  },
+  {
+    "name": "keldeo-resolute",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "justified"
+    ]
+  },
+  {
+    "name": "meowstic-female",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "aegislash-blade",
+    "type": "steel",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "stance-change"
+    ]
+  },
+  {
+    "name": "pumpkaboo-small",
+    "type": "ghost",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "pumpkaboo-large",
+    "type": "ghost",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "pumpkaboo-super",
+    "type": "ghost",
+    "moves": [
+      "disable"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "gourgeist-small",
+    "type": "ghost",
+    "moves": [
+      "flamethrower"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "gourgeist-large",
+    "type": "ghost",
+    "moves": [
+      "flamethrower"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "gourgeist-super",
+    "type": "ghost",
+    "moves": [
+      "flamethrower"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "venusaur-mega",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "thick-fat"
+    ]
+  },
+  {
+    "name": "charizard-mega-x",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "tough-claws"
+    ]
+  },
+  {
+    "name": "charizard-mega-y",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "drought"
+    ]
+  },
+  {
+    "name": "blastoise-mega",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "mega-launcher"
+    ]
+  },
+  {
+    "name": "alakazam-mega",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "trace"
+    ]
+  },
+  {
+    "name": "gengar-mega",
+    "type": "ghost",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "shadow-tag"
+    ]
+  },
+  {
+    "name": "kangaskhan-mega",
+    "type": "normal",
+    "moves": [
+      "comet-punch"
+    ],
+    "abilities": [
+      "parental-bond"
+    ]
+  },
+  {
+    "name": "pinsir-mega",
+    "type": "bug",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "aerilate"
+    ]
+  },
+  {
+    "name": "gyarados-mega",
+    "type": "water",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "aerodactyl-mega",
+    "type": "rock",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "tough-claws"
+    ]
+  },
+  {
+    "name": "mewtwo-mega-x",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "steadfast"
+    ]
+  },
+  {
+    "name": "mewtwo-mega-y",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "insomnia"
+    ]
+  },
+  {
+    "name": "ampharos-mega",
+    "type": "electric",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "scizor-mega",
+    "type": "bug",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "technician"
+    ]
+  },
+  {
+    "name": "heracross-mega",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "skill-link"
+    ]
+  },
+  {
+    "name": "houndoom-mega",
+    "type": "dark",
+    "moves": [
+      "leer"
+    ],
+    "abilities": [
+      "solar-power"
+    ]
+  },
+  {
+    "name": "tyranitar-mega",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "sand-stream"
+    ]
+  },
+  {
+    "name": "blaziken-mega",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "speed-boost"
+    ]
+  },
+  {
+    "name": "gardevoir-mega",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "pixilate"
+    ]
+  },
+  {
+    "name": "mawile-mega",
+    "type": "steel",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "huge-power"
+    ]
+  },
+  {
+    "name": "aggron-mega",
+    "type": "steel",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "filter"
+    ]
+  },
+  {
+    "name": "medicham-mega",
+    "type": "fighting",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "pure-power"
+    ]
+  },
+  {
+    "name": "manectric-mega",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "banette-mega",
+    "type": "ghost",
+    "moves": [
+      "hyper-beam"
+    ],
+    "abilities": [
+      "prankster"
+    ]
+  },
+  {
+    "name": "absol-mega",
+    "type": "dark",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "magic-bounce"
+    ]
+  },
+  {
+    "name": "garchomp-mega",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sand-force"
+    ]
+  },
+  {
+    "name": "lucario-mega",
+    "type": "fighting",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "adaptability"
+    ]
+  },
+  {
+    "name": "abomasnow-mega",
+    "type": "grass",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "snow-warning"
+    ]
+  },
+  {
+    "name": "floette-eternal",
+    "type": "fairy",
+    "moves": [
+      "vine-whip"
+    ],
+    "abilities": [
+      "flower-veil"
+    ]
+  },
+  {
+    "name": "latias-mega",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "latios-mega",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "swampert-mega",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "sceptile-mega",
+    "type": "grass",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "sableye-mega",
+    "type": "dark",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "magic-bounce"
+    ]
+  },
+  {
+    "name": "altaria-mega",
+    "type": "dragon",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "pixilate"
+    ]
+  },
+  {
+    "name": "gallade-mega",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "audino-mega",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "healer"
+    ]
+  },
+  {
+    "name": "sharpedo-mega",
+    "type": "water",
+    "moves": [
+      "leer"
+    ],
+    "abilities": [
+      "strong-jaw"
+    ]
+  },
+  {
+    "name": "slowbro-mega",
+    "type": "water",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "shell-armor"
+    ]
+  },
+  {
+    "name": "steelix-mega",
+    "type": "steel",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "sand-force"
+    ]
+  },
+  {
+    "name": "pidgeot-mega",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "no-guard"
+    ]
+  },
+  {
+    "name": "glalie-mega",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "refrigerate"
+    ]
+  },
+  {
+    "name": "diancie-mega",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "magic-bounce"
+    ]
+  },
+  {
+    "name": "metagross-mega",
+    "type": "steel",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "tough-claws"
+    ]
+  },
+  {
+    "name": "kyogre-primal",
+    "type": "water",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "primordial-sea"
+    ]
+  },
+  {
+    "name": "groudon-primal",
+    "type": "ground",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "desolate-land"
+    ]
+  },
+  {
+    "name": "rayquaza-mega",
+    "type": "dragon",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "delta-stream"
+    ]
+  },
+  {
+    "name": "pikachu-rock-star",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-belle",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-pop-star",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-phd",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-libre",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-cosplay",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "hoopa-unbound",
+    "type": "psychic",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "magician"
+    ]
+  },
+  {
+    "name": "camerupt-mega",
+    "type": "fire",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "lopunny-mega",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "scrappy"
+    ]
+  },
+  {
+    "name": "salamence-mega",
+    "type": "dragon",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "aerilate"
+    ]
+  },
+  {
+    "name": "beedrill-mega",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "adaptability"
+    ]
+  },
+  {
+    "name": "rattata-alola",
+    "type": "dark",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "raticate-alola",
+    "type": "dark",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "raticate-totem-alola",
+    "type": "dark",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "pikachu-original-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-hoenn-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-sinnoh-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-unova-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-kalos-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "pikachu-alola-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "raichu-alola",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "surge-surfer"
+    ]
+  },
+  {
+    "name": "sandshrew-alola",
+    "type": "ice",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "sandslash-alola",
+    "type": "ice",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "vulpix-alola",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "ninetales-alola",
+    "type": "ice",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "diglett-alola",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "dugtrio-alola",
+    "type": "ground",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "meowth-alola",
+    "type": "dark",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "persian-alola",
+    "type": "dark",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "fur-coat"
+    ]
+  },
+  {
+    "name": "geodude-alola",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "magnet-pull"
+    ]
+  },
+  {
+    "name": "graveler-alola",
+    "type": "rock",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "magnet-pull"
+    ]
+  },
+  {
+    "name": "golem-alola",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "magnet-pull"
+    ]
+  },
+  {
+    "name": "grimer-alola",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "poison-touch"
+    ]
+  },
+  {
+    "name": "muk-alola",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "poison-touch"
+    ]
+  },
+  {
+    "name": "exeggutor-alola",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "frisk"
+    ]
+  },
+  {
+    "name": "marowak-alola",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "cursed-body"
+    ]
+  },
+  {
+    "name": "greninja-battle-bond",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "battle-bond"
+    ]
+  },
+  {
+    "name": "greninja-ash",
+    "type": "water",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "battle-bond"
+    ]
+  },
+  {
+    "name": "zygarde-10-power-construct",
+    "type": "dragon",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "power-construct"
+    ]
+  },
+  {
+    "name": "zygarde-50-power-construct",
+    "type": "dragon",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "power-construct"
+    ]
+  },
+  {
+    "name": "zygarde-complete",
+    "type": "dragon",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "power-construct"
+    ]
+  },
+  {
+    "name": "gumshoos-totem",
+    "type": "normal",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "stakeout"
+    ]
+  },
+  {
+    "name": "vikavolt-totem",
+    "type": "bug",
+    "moves": [
+      "vice-grip"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "oricorio-pom-pom",
+    "type": "electric",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "dancer"
+    ]
+  },
+  {
+    "name": "oricorio-pau",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "dancer"
+    ]
+  },
+  {
+    "name": "oricorio-sensu",
+    "type": "ghost",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "dancer"
+    ]
+  },
+  {
+    "name": "lycanroc-midnight",
+    "type": "rock",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "wishiwashi-school",
+    "type": "water",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "schooling"
+    ]
+  },
+  {
+    "name": "lurantis-totem",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "salazzle-totem",
+    "type": "poison",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "corrosion"
+    ]
+  },
+  {
+    "name": "minior-orange-meteor",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-yellow-meteor",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-green-meteor",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-blue-meteor",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-indigo-meteor",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-violet-meteor",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-red",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-orange",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-yellow",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-green",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-blue",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-indigo",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "minior-violet",
+    "type": "rock",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shields-down"
+    ]
+  },
+  {
+    "name": "mimikyu-busted",
+    "type": "ghost",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "disguise"
+    ]
+  },
+  {
+    "name": "mimikyu-totem-disguised",
+    "type": "ghost",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "disguise"
+    ]
+  },
+  {
+    "name": "mimikyu-totem-busted",
+    "type": "ghost",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "disguise"
+    ]
+  },
+  {
+    "name": "kommo-o-totem",
+    "type": "dragon",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "bulletproof"
+    ]
+  },
+  {
+    "name": "magearna-original",
+    "type": "steel",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "soul-heart"
+    ]
+  },
+  {
+    "name": "pikachu-partner-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "marowak-totem",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "cursed-body"
+    ]
+  },
+  {
+    "name": "ribombee-totem",
+    "type": "bug",
+    "moves": [
+      "absorb"
+    ],
+    "abilities": [
+      "honey-gather"
+    ]
+  },
+  {
+    "name": "rockruff-own-tempo",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "lycanroc-dusk",
+    "type": "rock",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "tough-claws"
+    ]
+  },
+  {
+    "name": "araquanid-totem",
+    "type": "water",
+    "moves": [
+      "bite"
+    ],
+    "abilities": [
+      "water-bubble"
+    ]
+  },
+  {
+    "name": "togedemaru-totem",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "iron-barbs"
+    ]
+  },
+  {
+    "name": "necrozma-dusk",
+    "type": "psychic",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "prism-armor"
+    ]
+  },
+  {
+    "name": "necrozma-dawn",
+    "type": "psychic",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "prism-armor"
+    ]
+  },
+  {
+    "name": "necrozma-ultra",
+    "type": "psychic",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "neuroforce"
+    ]
+  },
+  {
+    "name": "pikachu-starter",
+    "type": "electric",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "eevee-starter",
+    "type": "normal",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "pikachu-world-cap",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "static"
+    ]
+  },
+  {
+    "name": "meowth-galar",
+    "type": "steel",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "ponyta-galar",
+    "type": "psychic",
+    "moves": [
+      "stomp"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "rapidash-galar",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "slowpoke-galar",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "gluttony"
+    ]
+  },
+  {
+    "name": "slowbro-galar",
+    "type": "poison",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "quick-draw"
+    ]
+  },
+  {
+    "name": "farfetchd-galar",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "steadfast"
+    ]
+  },
+  {
+    "name": "weezing-galar",
+    "type": "poison",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "mr-mime-galar",
+    "type": "ice",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "articuno-galar",
+    "type": "psychic",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "competitive"
+    ]
+  },
+  {
+    "name": "zapdos-galar",
+    "type": "fighting",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "defiant"
+    ]
+  },
+  {
+    "name": "moltres-galar",
+    "type": "dark",
+    "moves": [
+      "gust"
+    ],
+    "abilities": [
+      "berserk"
+    ]
+  },
+  {
+    "name": "slowking-galar",
+    "type": "poison",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "curious-medicine"
+    ]
+  },
+  {
+    "name": "corsola-galar",
+    "type": "ghost",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "zigzagoon-galar",
+    "type": "dark",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "linoone-galar",
+    "type": "dark",
+    "moves": [
+      "sand-attack"
+    ],
+    "abilities": [
+      "pickup"
+    ]
+  },
+  {
+    "name": "darumaka-galar",
+    "type": "ice",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "hustle"
+    ]
+  },
+  {
+    "name": "darmanitan-galar-standard",
+    "type": "ice",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "gorilla-tactics"
+    ]
+  },
+  {
+    "name": "darmanitan-galar-zen",
+    "type": "ice",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "gorilla-tactics"
+    ]
+  },
+  {
+    "name": "yamask-galar",
+    "type": "ground",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "wandering-spirit"
+    ]
+  },
+  {
+    "name": "stunfisk-galar",
+    "type": "ground",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "mimicry"
+    ]
+  },
+  {
+    "name": "zygarde-10",
+    "type": "dragon",
+    "moves": [
+      "bind"
+    ],
+    "abilities": [
+      "aura-break"
+    ]
+  },
+  {
+    "name": "cramorant-gulping",
+    "type": "flying",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "gulp-missile"
+    ]
+  },
+  {
+    "name": "cramorant-gorging",
+    "type": "flying",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "gulp-missile"
+    ]
+  },
+  {
+    "name": "toxtricity-low-key",
+    "type": "electric",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "punk-rock"
+    ]
+  },
+  {
+    "name": "eiscue-noice",
+    "type": "ice",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "ice-face"
+    ]
+  },
+  {
+    "name": "indeedee-female",
+    "type": "psychic",
+    "moves": [
+      "pay-day"
+    ],
+    "abilities": [
+      "own-tempo"
+    ]
+  },
+  {
+    "name": "morpeko-hangry",
+    "type": "electric",
+    "moves": [
+      "thunder-punch"
+    ],
+    "abilities": [
+      "hunger-switch"
+    ]
+  },
+  {
+    "name": "zacian-crowned",
+    "type": "fairy",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "intrepid-sword"
+    ]
+  },
+  {
+    "name": "zamazenta-crowned",
+    "type": "fighting",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "dauntless-shield"
+    ]
+  },
+  {
+    "name": "eternatus-eternamax",
+    "type": "poison",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "urshifu-rapid-strike",
+    "type": "fighting",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "unseen-fist"
+    ]
+  },
+  {
+    "name": "zarude-dada",
+    "type": "dark",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "leaf-guard"
+    ]
+  },
+  {
+    "name": "calyrex-ice",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "as-one-glastrier"
+    ]
+  },
+  {
+    "name": "calyrex-shadow",
+    "type": "psychic",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "as-one-spectrier"
+    ]
+  },
+  {
+    "name": "growlithe-hisui",
+    "type": "fire",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "arcanine-hisui",
+    "type": "fire",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "voltorb-hisui",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "electrode-hisui",
+    "type": "electric",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "soundproof"
+    ]
+  },
+  {
+    "name": "typhlosion-hisui",
+    "type": "fire",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "qwilfish-hisui",
+    "type": "dark",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "sneasel-hisui",
+    "type": "fighting",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "samurott-hisui",
+    "type": "water",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "lilligant-hisui",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "zorua-hisui",
+    "type": "normal",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "illusion"
+    ]
+  },
+  {
+    "name": "zoroark-hisui",
+    "type": "normal",
+    "moves": [
+      "scratch"
+    ],
+    "abilities": [
+      "illusion"
+    ]
+  },
+  {
+    "name": "braviary-hisui",
+    "type": "psychic",
+    "moves": [
+      "wing-attack"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "sliggoo-hisui",
+    "type": "steel",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "sap-sipper"
+    ]
+  },
+  {
+    "name": "goodra-hisui",
+    "type": "steel",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "sap-sipper"
+    ]
+  },
+  {
+    "name": "avalugg-hisui",
+    "type": "ice",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "strong-jaw"
+    ]
+  },
+  {
+    "name": "decidueye-hisui",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "dialga-origin",
+    "type": "steel",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "palkia-origin",
+    "type": "water",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "pressure"
+    ]
+  },
+  {
+    "name": "basculin-white-striped",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "rattled"
+    ]
+  },
+  {
+    "name": "basculegion-female",
+    "type": "water",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "enamorus-therian",
+    "type": "fairy",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "overcoat"
+    ]
+  },
+  {
+    "name": "tauros-paldea-combat-breed",
+    "type": "fighting",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "tauros-paldea-blaze-breed",
+    "type": "fighting",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "tauros-paldea-aqua-breed",
+    "type": "fighting",
+    "moves": [
+      "double-kick"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "wooper-paldea",
+    "type": "poison",
+    "moves": [
+      "slam"
+    ],
+    "abilities": [
+      "poison-point"
+    ]
+  },
+  {
+    "name": "oinkologne-female",
+    "type": "normal",
+    "moves": [
+      "headbutt"
+    ],
+    "abilities": [
+      "aroma-veil"
+    ]
+  },
+  {
+    "name": "dudunsparce-three-segment",
+    "type": "normal",
+    "moves": [
+      "body-slam"
+    ],
+    "abilities": [
+      "serene-grace"
+    ]
+  },
+  {
+    "name": "palafin-hero",
+    "type": "water",
+    "moves": [
+      "ice-punch"
+    ],
+    "abilities": [
+      "zero-to-hero"
+    ]
+  },
+  {
+    "name": "maushold-family-of-three",
+    "type": "normal",
+    "moves": [
+      "pound"
+    ],
+    "abilities": [
+      "friend-guard"
+    ]
+  },
+  {
+    "name": "tatsugiri-droopy",
+    "type": "dragon",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "commander"
+    ]
+  },
+  {
+    "name": "tatsugiri-stretchy",
+    "type": "dragon",
+    "moves": [
+      "take-down"
+    ],
+    "abilities": [
+      "commander"
+    ]
+  },
+  {
+    "name": "squawkabilly-blue-plumage",
+    "type": "normal",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "squawkabilly-yellow-plumage",
+    "type": "normal",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "squawkabilly-white-plumage",
+    "type": "normal",
+    "moves": [
+      "fly"
+    ],
+    "abilities": [
+      "intimidate"
+    ]
+  },
+  {
+    "name": "gimmighoul-roaming",
+    "type": "ghost",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "koraidon-limited-build",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ]
+  },
+  {
+    "name": "koraidon-sprinting-build",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ]
+  },
+  {
+    "name": "koraidon-swimming-build",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ]
+  },
+  {
+    "name": "koraidon-gliding-build",
+    "type": "fighting",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ]
+  },
+  {
+    "name": "miraidon-low-power-mode",
+    "type": "electric",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "hadron-engine"
+    ]
+  },
+  {
+    "name": "miraidon-drive-mode",
+    "type": "electric",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "hadron-engine"
+    ]
+  },
+  {
+    "name": "miraidon-aquatic-mode",
+    "type": "electric",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "hadron-engine"
+    ]
+  },
+  {
+    "name": "miraidon-glide-mode",
+    "type": "electric",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "hadron-engine"
+    ]
+  },
+  {
+    "name": "ursaluna-bloodmoon",
+    "type": "ground",
+    "moves": [
+      "fire-punch"
+    ],
+    "abilities": [
+      "minds-eye"
+    ]
+  },
+  {
+    "name": "ogerpon-wellspring-mask",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "water-absorb"
+    ]
+  },
+  {
+    "name": "ogerpon-hearthflame-mask",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "mold-breaker"
+    ]
+  },
+  {
+    "name": "ogerpon-cornerstone-mask",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "sturdy"
+    ]
   }
 ]

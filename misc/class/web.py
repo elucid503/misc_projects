@@ -1,19 +1,23 @@
 import requests
 import json
 
-api_url = "https://pokeapi.co/api/v2/pokemon?limit=20" # 20 pokemons
+api_url = "https://pokeapi.co/api/v2/pokemon?limit=10000"
 response = requests.get(api_url)
 data = response.json()
 
 cards = []
+
+counter = 0
 
 for p in data.get("results"):
 
     moreinfo = requests.get(p.get("url"))
     moredata = moreinfo.json()
 
-    if (not moredata.get("name")):
+    if ((not moredata.get("types") or not moredata.get("moves") or not moredata.get("abilities"))):
         continue
+
+    counter +=1 
     
     pokemon_card = { 
 
@@ -29,9 +33,7 @@ for p in data.get("results"):
 
     cards.append(pokemon_card)
 
-# Print 
-
-print(json.dumps(cards, indent=2))
+    print(f"Compiled {counter} pokemons")
 
 # Write to file
 
