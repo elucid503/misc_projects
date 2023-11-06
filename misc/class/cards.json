@@ -1,0 +1,202 @@
+[
+  {
+    "name": "bulbasaur",
+    "type": "grass",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "ivysaur",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "venusaur",
+    "type": "grass",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "overgrow"
+    ]
+  },
+  {
+    "name": "charmander",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "charmeleon",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "charizard",
+    "type": "fire",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "blaze"
+    ]
+  },
+  {
+    "name": "squirtle",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "wartortle",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "blastoise",
+    "type": "water",
+    "moves": [
+      "mega-punch"
+    ],
+    "abilities": [
+      "torrent"
+    ]
+  },
+  {
+    "name": "caterpie",
+    "type": "bug",
+    "moves": [
+      "tackle"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "metapod",
+    "type": "bug",
+    "moves": [
+      "string-shot"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "butterfree",
+    "type": "bug",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "compound-eyes"
+    ]
+  },
+  {
+    "name": "weedle",
+    "type": "bug",
+    "moves": [
+      "poison-sting"
+    ],
+    "abilities": [
+      "shield-dust"
+    ]
+  },
+  {
+    "name": "kakuna",
+    "type": "bug",
+    "moves": [
+      "string-shot"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "beedrill",
+    "type": "bug",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "swarm"
+    ]
+  },
+  {
+    "name": "pidgey",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "pidgeotto",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "pidgeot",
+    "type": "normal",
+    "moves": [
+      "razor-wind"
+    ],
+    "abilities": [
+      "keen-eye"
+    ]
+  },
+  {
+    "name": "rattata",
+    "type": "normal",
+    "moves": [
+      "cut"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  },
+  {
+    "name": "raticate",
+    "type": "normal",
+    "moves": [
+      "swords-dance"
+    ],
+    "abilities": [
+      "run-away"
+    ]
+  }
+]

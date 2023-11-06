@@ -1,6 +1,7 @@
 import requests
+import json
 
-api_url = "https://pokeapi.co/api/v2/pokemon?limit=10&offset=0"
+api_url = "https://pokeapi.co/api/v2/pokemon?limit=20" # 20 pokemons
 response = requests.get(api_url)
 data = response.json()
 
@@ -8,31 +9,31 @@ cards = []
 
 for p in data.get("results"):
 
-    print(p.get("name"), end=": ")
-    print(p.get("url"), end = "\n")
-
     moreinfo = requests.get(p.get("url"))
     moredata = moreinfo.json()
 
-    for sprite in moredata.get("sprites").items():
-        print(sprite[0], ": ", sprite[1])
-
+    if (not moredata.get("name")):
+        continue
+    
     pokemon_card = { 
 
         "name": p.get("name"),
-        "url": p.get("url"),
+        
+        "type": moredata.get("types")[0].get("type").get("name"),
 
-        "height": moredata.get("height"),
-        "weight": moredata.get("weight"),
+        "moves": [ moredata.get("moves")[0].get("move").get("name") ],
 
-        "hp": moredata.get("stats")[0].get("base_stat"),
-        "attack": moredata.get("stats")[1].get("base_stat"),
-        "defense": moredata.get("stats")[2].get("base_stat"),
-
-        "speed": moredata.get("stats")[5].get("base_stat"),
+        "abilities": [ moredata.get("abilities")[0].get("ability").get("name") ]
 
     }
 
     cards.append(pokemon_card)
 
-print(cards)
+# Print 
+
+print(json.dumps(cards, indent=2))
+
+# Write to file
+
+with open("cards.json", "w") as f:
+    json.dump(cards, f, indent=2)
