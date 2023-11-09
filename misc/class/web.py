@@ -18,6 +18,16 @@ for p in data.get("results"):
         continue
 
     counter +=1 
+
+    abilities = []
+
+    for a in moredata.get("abilities"):
+        abilities.append(a.get("ability").get("name"))
+
+    moves = []
+
+    for m in moredata.get("moves"):
+        moves.append(m.get("move").get("name"))
     
     pokemon_card = { 
 
@@ -25,9 +35,9 @@ for p in data.get("results"):
         
         "type": moredata.get("types")[0].get("type").get("name"),
 
-        "moves": [ moredata.get("moves")[0].get("move").get("name") ],
+        "moves": moves,
 
-        "abilities": [ moredata.get("abilities")[0].get("ability").get("name") ]
+        "abilities": abilities
 
     }
 
