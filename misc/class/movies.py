@@ -1,5 +1,5 @@
 def ListMovies(movies):
-    if movies:
+    if len(movies) > 0:
         print("\nList of Movies:")
         for title, year in movies.items():
             print(f"- {title} ({year})")
